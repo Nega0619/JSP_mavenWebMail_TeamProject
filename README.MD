@@ -9,7 +9,7 @@
 5. 레포지토리 구조
 
 ---
-
+<br>
 
 
 # 프로젝트 개요
@@ -23,7 +23,7 @@ JSP를 이용하여 제공된 웹 메일 시스템 프로젝트에 대해 유지
 
 위 유지보수를 통하여 사용자에게 이전보다 개선된 품질의 시스템 을 제공하는 것을 목표로 하였습니다.
 
-
+<br>
 
 ## Tools & languages
 
@@ -45,7 +45,7 @@ https://velog.io/@cha-suyeon/github-%EA%B9%83%ED%97%88%EB%B8%8C-%EB%A6%AC%EB%93%
 
 - CSS
 
-  
+  <br>
 
 
 
@@ -56,8 +56,7 @@ https://velog.io/@cha-suyeon/github-%EA%B9%83%ED%97%88%EB%B8%8C-%EB%A6%AC%EB%93%
 - 전체 유스케이스
 
 
-
-![그림입니다.  원본 그림의 이름: CLP000020303538.bmp  원본 그림의 크기: 가로 999pixel, 세로 909pixel](../assets/img/posts/EMB000021081a82.bmp)
+![image](https://user-images.githubusercontent.com/80737049/163927818-9928c6a1-bfbb-4f24-aa6e-751db360f0d4.png)
 
 
 
@@ -65,7 +64,7 @@ https://velog.io/@cha-suyeon/github-%EA%B9%83%ED%97%88%EB%B8%8C-%EB%A6%AC%EB%93%
 
 ![](https://user-images.githubusercontent.com/80737049/163902703-b620899d-a23a-48e1-bfb7-b99eb1b13a3d.png)
 
-
+<br>
 
 ## 유지보수계획
 
@@ -84,7 +83,7 @@ https://velog.io/@cha-suyeon/github-%EA%B9%83%ED%97%88%EB%B8%8C-%EB%A6%AC%EB%93%
     - 다수의 사용자에게 메일 쓰기
     - 메일 임시 저장
 
-
+<br>
 
 ## 유지 보수 프로세스
 
@@ -92,17 +91,16 @@ https://velog.io/@cha-suyeon/github-%EA%B9%83%ED%97%88%EB%B8%8C-%EB%A6%AC%EB%93%
 
 제품 기능 목록 작성 –> 스프린트 계획 회의 –> 스프린트 수행 -> 완료로 진행되며, 스프린트 완료 후 스프린트 검토 회의, 회고, 다음 스프린트 계획 회의를 진행하였습니다.
 
-  ![그림입니다.  원본 그림의 이름: mem000001046253.jpg  원본 그림의 크기: 가로 540pixel, 세로 319pixel](../assets/img/posts/EMB000021081a9a.jpg)  
+![image](https://user-images.githubusercontent.com/80737049/163927799-3cc56421-bc3b-445a-bd60-bcb4d4d5fd3e.png)
+
+<br>
 
 ## 수정된 프로젝트
 
-![image-20220419143642608](../assets/img/posts/image-20220419143642608.png)
-
-![image-20220419143723374](../assets/img/posts/image-20220419143723374.png)
-
-![image-20220419143752274](../assets/img/posts/image-20220419143752274.png)
-
-![image-20220419143817809](../assets/img/posts/image-20220419143817809.png)
+![image](https://user-images.githubusercontent.com/80737049/163927776-09bbef8c-4c13-463f-a43f-317ad6e90ce5.png)
+![image](https://user-images.githubusercontent.com/80737049/163927758-60d93c37-4cb7-4bf4-a65c-32a82134c33f.png)
+![image](https://user-images.githubusercontent.com/80737049/163927748-16edb11f-c144-4982-957e-d10e72b8adf8.png)
+![image](https://user-images.githubusercontent.com/80737049/163927726-92bd3bf3-9e32-43c7-b46a-966e9a21b2bd.png)
 
 
 
