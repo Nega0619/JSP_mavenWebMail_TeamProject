@@ -15,8 +15,8 @@
 
 
 ## 초기 프로젝트 상태
+![image-20220418152211538](https://user-images.githubusercontent.com/80737049/163902703-b620899d-a23a-48e1-bfb7-b99eb1b13a3d.png)
 
-![image-20220418152211538](../assets/img/posts/image-20220418152211538.png)
 
 
 
