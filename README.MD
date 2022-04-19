@@ -139,6 +139,9 @@ https://velog.io/@cha-suyeon/github-%EA%B9%83%ED%97%88%EB%B8%8C-%EB%A6%AC%EB%93%
 
 
 
+# 발표 동영상
+12분의 발표시간이 있어 제가(신휘정, Nega0619) 빠르게 말합니다. 양해부탁드립니다.
+[![발표동영상](https://youtu.be/Mq76OWryDzc)
 
 
 
